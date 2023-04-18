@@ -27,5 +27,5 @@ o En quoi le facteur humain est-il important en sécurité informatique ?
 
 o Qu’est ce que le 2FA ?
 
-C'est le double facteur d'authentification.
+C'est le double facteur d'authentification. Une partie ID / MDP, plus une vérification par code, click de lien, envoyé par sms, mail...
 
